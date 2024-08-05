@@ -32,11 +32,11 @@ p {
 }
 
 .responsive {
-  width: 15%;
-  height: auto;
   border: 5px solid gold;
   border-radius: 50%;
   display: block;
+  width: auto;
+  height: 200px;
   margin-left: auto;
   margin-right: auto;
 }
