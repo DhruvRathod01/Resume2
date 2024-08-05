@@ -61,14 +61,18 @@ div .unit-20 p {
   font-size: 22px;
 }
 
-div .social {
-  margin-right: 450px;
+.social {
+  margin-right: auto;
+  margin-left: auto;
+  height: auto;
+  display: inline-block;
 }
 
 svg {
+  border: 2px solid salmon;
+  margin: 20px;
   height: 52px;
-  width: 90px;
-
+  width: 60px;
 }
 
 .dt {
