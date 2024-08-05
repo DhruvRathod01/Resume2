@@ -58,13 +58,20 @@ div .unit-20 p {
   font-size: 22px;
 }
 
-div .social li {
-  margin-left: 150px;
-  background-color: red;
+div .social {
+  margin-right: 450px;
 }
 
 svg {
   height: 52px;
   width: 90px;
 
+}
+
+.dt {
+  color: whitesmoke;
+}
+
+.im {
+  float: right;
 }
