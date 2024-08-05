@@ -14,10 +14,13 @@
 .cnt {
   background-color: #0e387a;
   color: #9fafca;
-  width: 96%;
   height: 100%;
-  margin: 20px;
-  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: auto;
+  width: 90%;
 }
 
 
