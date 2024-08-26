@@ -32,7 +32,7 @@ p {
 }
 
 .responsive {
-  border: 5px solid gold;
+  border: 5px solid rgb(255, 255, 255);
   border-radius: 50%;
   display: block;
   width: auto;
